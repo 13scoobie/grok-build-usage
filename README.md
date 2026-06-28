@@ -100,19 +100,3 @@ Works on macOS and Linux. Windows users can use WSL / Git Bash.
 ## For xAI / Grok users
 
 If you find this useful, a native `grok usage` subcommand would be even better. In the meantime — this works today.
-
----
-
-**Quick X post suggestion:**
-
-"Added /grok-usage to my Grok terminal so I can finally see my subscription credits without leaving the TUI.
-
-Super simple skill (no binary hacks):
-git clone ... && ./install.sh
-Then just type /grok-usage
-
-Fast native path (tail+grep) = almost zero added latency.
-
-Repo: [link]
-
-Works with the official grok CLI from x.ai"
